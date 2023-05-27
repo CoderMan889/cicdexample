@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "cicdexample",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://CoderMan889.github.io/cicdexample",
+  "homepage":"https://coderman889.github.io/cicdexample",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
